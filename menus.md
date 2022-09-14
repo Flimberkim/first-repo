@@ -1,4 +1,4 @@
-##What kind of food
+##Menus
 
 1. Pizza
 2. Chicken
@@ -6,8 +6,8 @@
 
 ##New candidates
 
-4. Kimchi soup
-5. Soy sauce soup
+4. Steamed Kimchi
+5. Chung-gook-jang
 6. Troops soup
 7. Bibimbob
 
