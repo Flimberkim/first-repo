@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Spiderman
 - Year :
 - Name :
