@@ -13,11 +13,13 @@ This repo is to practice git.
 -Contributing(Optional)
 
 ##Installation
+
 ```shell
 $ pip install -r requirements.txt
 ```
 
 ###How to start
+
 ```shell
 $ python main.py
 ```
