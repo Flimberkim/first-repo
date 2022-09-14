@@ -1,4 +1,4 @@
-##What kind of food
+##Menu for lunch
 
 1. Pizza
 2. Chicken
@@ -6,9 +6,9 @@
 
 ##New candidates
 
-4. Kimchi soup
-5. Soy sauce soup
-6. Troops soup
+4. steak
+5. Pizza
+6. Donut
 7. Bibimbob
 
 ##Features
