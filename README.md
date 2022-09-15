@@ -4,7 +4,7 @@ This repo is to practice git.
 
 `<p>Paragraph<\p>`
 
-##Index
+## Index
 
 -Installation
 -How to start
@@ -12,26 +12,26 @@ This repo is to practice git.
 -Stacks&Skills
 -Contributing(Optional)
 
-##Installation
+## Installation
 
 ```shell
 $ pip install -r requirements.txt
 ```
 
-###How to start
+### How to start
 
 ```shell
 $ python main.py
 ```
 
-##Features
+## Features
 
 1. feature 1
 2. feature 2
 
 `<ol><li>feature 1</li></ol>`
 
-##Stacks&Skills
+## Stacks&Skills
 
 -python
 -django
