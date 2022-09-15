@@ -4,3 +4,4 @@
 3. baseball
 4. swimming
 5. bowling
+6. climbing
